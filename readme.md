@@ -1,4 +1,4 @@
-# Website (webRTC) to NDI source
+# Website (webRTC) to NDI source headlessly
 
 It works enough to output a website (include OBS.Ninja streams) into an NDI Video output. It can do this headlessly.
 
