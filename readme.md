@@ -13,12 +13,12 @@ cefpython3>=66.0
 numpy>=1.14.0
 ```
 
-and you'll need the NDI SDK and the following, which requires building.
+and you'll need the NDI SDK and the following, which requires compiling.
 ```
 https://github.com/buresu/ndi-python
 ```
 
-If you want to try building, this is Kinda the idea.  Good luck.  
+After that, you can run with just python as a script, or you can compile into an app.  If you want to try building Chromicast, the following is the basic idea, but good luck! Dependencies are a pain to sort out well.
 
 # macOS Build
 ```
