@@ -13,7 +13,7 @@ cefpython3>=66.0
 numpy>=1.14.0
 ```
 
-and you'll need the NDI SDK and the follow, which requires building.
+and you'll need the NDI SDK and the following, which requires building.
 ```
 https://github.com/buresu/ndi-python
 ```
