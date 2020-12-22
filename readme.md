@@ -11,7 +11,11 @@ It requires a couple dependencies
 ```
 cefpython3>=66.0
 numpy>=1.14.0
-and the NDI SDK files..
+```
+
+and you'll need the NDI SDK and the follow, which requires building.
+````
+https://github.com/buresu/ndi-python
 ```
 
 If you want to try building, this is Kinda the idea.  Good luck.  
