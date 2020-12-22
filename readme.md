@@ -14,7 +14,7 @@ numpy>=1.14.0
 ```
 
 and you'll need the NDI SDK and the follow, which requires building.
-````
+```
 https://github.com/buresu/ndi-python
 ```
 
