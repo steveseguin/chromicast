@@ -1,4 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
+# MIT License
+# Copyright (c) 2023 Steve Seguin
 
 block_cipher = None
 
