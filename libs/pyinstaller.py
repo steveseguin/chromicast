@@ -6,6 +6,7 @@ See README-pyinstaller.md for installing required packages.
 
 To package example type: `python pyinstaller.py`.
 """
+# this file was modified by steve, but its not originally be steve
 
 import os
 import platform
