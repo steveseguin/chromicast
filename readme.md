@@ -2,9 +2,9 @@
 
 It works enough to output a website (include VDO.Ninja streams) into an NDI Video output. It can do this headlessly.
 
-This Code is me tinkering around with ideas; it is unfinished. Audio isn't yet supported.
+This code is me tinkering around with ideas; it is unfinished. Audio isn't yet supported.
 
-It is based on the chromicam repo I made earlier (https://github.com/steveseguin/chromicam ), but outputs to NDI instead of Virtualcam. 
+It is based on the Chromicam repo I made earlier (https://github.com/steveseguin/chromicam ), but outputs to NDI instead of Virtualcam. 
 
 This repo requires a couple dependencies
 
