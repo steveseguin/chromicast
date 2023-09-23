@@ -4,7 +4,7 @@ It works enough to output a website (include VDO.Ninja streams) into an NDI Vide
 
 This Code is me tinkering around with ideas; it is unfinished. Audio isn't yet supported.
 
-It is based on the chromicast repo I made. https://github.com/steveseguin/chromicam 
+It is based on the chromicam repo I made. https://github.com/steveseguin/chromicam 
 
 It requires a couple dependencies
 
