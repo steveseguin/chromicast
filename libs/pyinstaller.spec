@@ -3,6 +3,7 @@
 
 """
 This is a PyInstaller spec file.
+This file was modified by Steve, but it was not originally by steve
 """
 
 import os
