@@ -1,6 +1,6 @@
 # Website (webRTC) to NDI source headlessly
 
-It works enough to output a website (include OBS.Ninja streams) into an NDI Video output. It can do this headlessly.
+It works enough to output a website (include VDO.Ninja streams) into an NDI Video output. It can do this headlessly.
 
 This Code is me tinkering around with ideas; it is unfinished. Audio isn't yet supported.
 
