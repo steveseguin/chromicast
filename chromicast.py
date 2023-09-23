@@ -1,4 +1,4 @@
-# python3 chromicam.py https://obs.ninja/?view=xxxxx 1280 720
+# python3 chromicam.py https://vdo.ninja/?view=xxxxx 1280 720
 import os
 import sys
 import numpy as np
@@ -9,7 +9,7 @@ import NDIlib as ndi
 from cefpython3 import cefpython as cef
 
 # Config
-URL = "https://obs.ninja/chromicam"
+URL = "https://vdo.ninja/chromicam"
 VIEWPORT_SIZE = (1280, 720)
 FRAMERATE = 30
 
