@@ -6,6 +6,7 @@ required to run final executable.
 See PyInstaller docs for hooks:
 https://pyinstaller.readthedocs.io/en/stable/hooks.html
 """
+## this file was modified by steve, but it's not originally by steve
 
 import glob
 import os
