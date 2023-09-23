@@ -28,15 +28,15 @@ example way to run using a VDO.Ninja stream as a source:
 
 If you want to try building Chromicast, the following is the basic idea, but good luck! Dependencies are a pain to sort out well.
 
-# macOS Build
+### macOS Build
 ```
 python3 build chromicast.py pack
 ```
-# Windows Build
+## Windows Build
 ```
 pyinstaller --onefile --hidden-import='pkg_resources.py2_warn' --icon=chromicast.ico chromicast.py
 ```
-# find the location of CEF on macOS
+### find the location of CEF on macOS
 ```
 sudo find / | grep "Chromium Embedded Framework"
 ```
