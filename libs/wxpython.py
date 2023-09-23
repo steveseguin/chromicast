@@ -43,22 +43,19 @@ URL = "https://google.com"
 VIEWPORT_SIZE = (1280, 720)
 FRAMERATE = 30
 
+## https://stackoverflow.com/a/43008165
 def retrieve_input():
     global URL
     URL="https://vdo.ninja/?v="+textBox.get("1.0","end-1c")
     root.destroy()
-
 textBox=tk.Text(root, height=1, width=50)
 textBox.insert(tk.INSERT, "Paste the stream-ID here then press Start", "a")
 textBox.pack()
 buttonCommit=tk.Button(root, height=1, width=20, text="Start", 
                     command=lambda: retrieve_input())
-#command=lambda: retrieve_input() >>> just means do this when i press the button
 buttonCommit.pack()
 
 tk.mainloop()
-
-
 
 def hello ():  
 
@@ -83,12 +80,8 @@ def exit_button():
     root.mainloop()
 
 
-    
-
 t2 = threading.Thread(target=exit_button)
 t2.start()
-
-
 
 def command_line_arguments():
     if len(sys.argv) > 1:
